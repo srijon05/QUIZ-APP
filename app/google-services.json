@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520806583680",
+    "project_id": "login-signup-ecf5c",
+    "storage_bucket": "login-signup-ecf5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520806583680:android:602fff265e25ada4f68565",
+        "android_client_info": {
+          "package_name": "com.example.login_signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn6bE5MnuwxYBt7BtyO4TWGZAUcjyJ1yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
